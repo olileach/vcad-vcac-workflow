@@ -1,1 +1,1 @@
-This is a new git repo
+See the repo wiki for more information
